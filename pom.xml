@@ -79,7 +79,7 @@
 
         <commons-lang3.version>3.4</commons-lang3.version>
 
-        <commons-compress.version>1.5</commons-compress.version>
+        <commons-compress.version>1.21</commons-compress.version>
 
         <commons-beanutils.version>1.8.3</commons-beanutils.version>
 
